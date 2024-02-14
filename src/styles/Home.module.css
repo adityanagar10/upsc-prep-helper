@@ -8,6 +8,7 @@
 .questionText {
   font-size: 24px;
   font-weight: normal;
+  color: #12462b;
 }
 
 .answerText {
@@ -27,6 +28,7 @@
 .incorrectOptionItem {
   background-color: #ff8080;
   border: 2px solid #5c1c1c;
+  color: #fb4747;
   padding: 15px;
   font-size: 16px;
   text-align: center;
@@ -36,6 +38,7 @@
 .selectedOptionItem {
   background-color: #a8c9c2;
   border: 1px solid #72938a;
+  color: #12462b;
   padding: 15px;
   font-size: 16px;
   text-align: center;
@@ -49,6 +52,7 @@
 .correctOptionItem {
   background-color: #f2fffd;
   border: 1px solid #6bbea2;
+  color: #12462b;
   padding: 15px;
   font-size: 16px;
   text-align: center;
