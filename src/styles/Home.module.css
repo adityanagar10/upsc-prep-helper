@@ -3,12 +3,12 @@
   background-color: #f2fffd;
   min-height: 100vh;
   padding: 30px;
+  color: #12462b;
 }
 
 .questionText {
   font-size: 24px;
   font-weight: normal;
-  color: #12462b;
 }
 
 .answerText {
